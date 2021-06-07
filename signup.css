@@ -1,0 +1,15 @@
+#formContainer {
+  width: 25%;
+  margin: 2.5% auto;
+}
+#form {
+  display: flex;
+  flex-direction: column;
+}
+#form > input {
+  margin: 3%;
+  height: 50px;
+}
+#form > button {
+  height: 50px;
+}
